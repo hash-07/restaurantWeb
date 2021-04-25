@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1>hello hash</h1>
+      <h1>hello hash</h1>
+      <h1>hello hash</h1>
     </div>
   );
 }
